@@ -23,10 +23,6 @@ All Layer Visualization (from PADs)
 <br>
 <br>
 
-<img width="521" alt="Hyundai Inverter Solution" src="https://github.com/user-attachments/assets/fb90c5e6-303b-46ad-a0a7-a0d24c0b0184" />
-
-Photo While Designing the Board
-
 Note
 - Full PDF with all PCB layers, stack-up, and routing details is available for reference (check the repository or attachment).
 
